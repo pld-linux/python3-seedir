@@ -6,7 +6,7 @@ Summary:	Package for creating, editing, and reading folder tree diagrams
 Summary(pl.UTF-8):	Pakiet do tworzenia, edycji i czytania diagramów drzew folderów
 Name:		python3-seedir
 Version:	0.4.2
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/seedir/
